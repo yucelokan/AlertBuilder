@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yucelokan/AlertBuilder/blob/master/LICENSE)
 
-AlertView is a structure used in situations such as showing a message to the user or offering an option. There are still a lot of libraries about that. What I'm trying to do with this library is that; enable the developer to create AlertView with View without forcing to use a View. This library is not an AlertView library. This library is builder for AlertView. Create a view and show it on the screen with AlertViewBuilder. That is all. This view can be everything. (TextView, TextField, Label, Button, ImageView, TableView etc.)
+AlertView is a structure used in situations such as displaying a message to the user or offering a choice. There are already a lot of libraries for that. What I'm trying to do with this library; Allows the developer to create AlertView with View without forcing to use a specific view. This library is not an AlertView library. This library is a builder for AlertView. Create and show on the screen a view with AlertViewBuilder . That's all. This view can be anything. (TextView, TextField, Label, Button, ImageView, TableView etc.)
 
 | Custom 1 | Custom 3 |
 |:---:|:---:|
